@@ -1,5 +1,5 @@
   <a href="https://github.com/kenuehara0609/">
-    <img src="img_23305.png" alt="Logo" width="160" height="80">
+    <img src="img_23305.png" alt="Logo" width="80" height="80" style="text-align: center">
   </a>
 
 

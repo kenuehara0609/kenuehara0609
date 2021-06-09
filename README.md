@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>?style=for-the-badge&logo=appveyor
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenuehara0609)](https://github.com/anuraghazra/github-readme-stats)
+

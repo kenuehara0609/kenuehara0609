@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/kenuehara0609/">
-    <img src="img_23305.png" alt="Logo" width="80" height="80">
+    <img src="Octocat.jpg" alt="Logo" width="160" height="160">
   </a>
 </p>
 

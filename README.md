@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+https://img.shields.io/github/issues/kenuehara0609/kenuehara0609
+https://img.shields.io/github/forks/kenuehara0609/kenuehara0609
+https://img.shields.io/github/stars/kenuehara0609/kenuehara0609
+https://img.shields.io/github/license/kenuehara0609/kenuehara0609
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fkenuehara0609%2Fkenuehara0609
+
+
 
 
 **kenuehara0609/kenuehara0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

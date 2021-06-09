@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://img.shields.io/github/forks/kenuehara0609/kenuehara0609?style=for-the-badge
+
 https://img.shields.io/github/issues/kenuehara0609/kenuehara0609
 https://img.shields.io/github/forks/kenuehara0609/kenuehara0609
 https://img.shields.io/github/stars/kenuehara0609/kenuehara0609

@@ -1,3 +1,11 @@
+
+<p align="center">
+<a href="https://github.com/kenuehara0609/">
+    <img src="img_23305.png" alt="Logo" width="80" height="80">
+  </a>
+</p>
+
+
 ### Hi there 👋
 
 [![GitHub issues](https://img.shields.io/github/issues/kenuehara0609/kenuehara0609)](https://github.com/kenuehara0609/kenuehara0609/issues)

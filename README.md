@@ -20,3 +20,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenuehara0609)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+<p align="center">
+<a href="https://github.com/kenuehara0609/">
+    <img src="profile-first-repo.svg" alt="Logo" width="160" height="160">
+  </a>
+</p>
